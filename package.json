@@ -31,7 +31,7 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/wareck/node-merged-pool.git"
+        "url": "https://github.com/Cashera/node-merged-pool-1.git"
     },
     "dependencies": {
         "unomp-multi-hashing": "git://github.com/Cashera/node-multi-hashing.git",
