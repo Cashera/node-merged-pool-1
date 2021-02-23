@@ -34,7 +34,7 @@
         "url": "https://github.com/Cashera/node-merged-pool-1.git"
     },
     "dependencies": {
-        "unomp-multi-hashing": "git://github.com/Cashera/node-multi-hashing.git",
+        "unomp-multi-hashing": "https://github.com/Cashera/node-multi-hashing.git",
         "bignum": "*",
         "base58-native": "*",
         "async": "*",
